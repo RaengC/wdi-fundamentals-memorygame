@@ -1,4 +1,3 @@
-console.log("Up and running!");
 
 let cards = ["queen", "queen", "king", "king"];
 let cardsInPlay = [] 
